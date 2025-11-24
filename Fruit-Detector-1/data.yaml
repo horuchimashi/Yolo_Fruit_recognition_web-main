@@ -1,0 +1,13 @@
+names:
+- apple
+- pear
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fruit-detector-esfls
+  url: https://universe.roboflow.com/yolo-0hsar/fruit-detector-esfls/dataset/1
+  version: 1
+  workspace: yolo-0hsar
+test: D:/Games1/YOLO_FruitProject/Fruit-Detector-1/train/images
+train: D:/Games1/YOLO_FruitProject/Fruit-Detector-1/train/images
+val: D:/Games1/YOLO_FruitProject/Fruit-Detector-1/train/images
